@@ -1,1 +1,3 @@
-# repo1
+# hello-world
+
+This is my first repository on GitHub
